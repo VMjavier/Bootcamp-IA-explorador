@@ -1,0 +1,21 @@
+ID,Animal,Peso_kg,Altura_cm,Color_pelaje,Tipo_comida_principal,Dieta,Latitud,Longitud
+1,Perro criollo,18,45,Marrón concentrado,Croquetas de pollo,Omnívoro,6.2932,-75.0208
+2,Gato doméstico,4.2,25,Gris atigrado,Pescado,Carnívoro,6.2915,-75.0194
+3,Loro,0.9,28,Verde brillante,Semillas,Herbívoro,6.2941,-75.0231
+4,Conejo,2.5,22,Blanco,Zanahoria,Herbívoro,6.2927,-75.0219
+5,Perro labrador,27,58,Dorado concentrado,Croquetas de res,Omnívoro,6.2954,-75.0186
+6,Gato siamés,3.8,24,Beige con marrón,Pescado,Carnívoro,6.2939,-75.0201
+7,Guacamayo,1.1,33,Azul y amarillo,Frutas tropicales,Herbívoro,6.2963,-75.0224
+8,Perico,0.5,17,Verde,Semillas,Herbívoro,6.2918,-75.0242
+9,Perro pinscher,5.5,30,Negro y marrón,Croquetas de pollo,Omnívoro,6.2936,-75.0199
+10,Conejo,3.0,25,Gris claro,Lechuga,Herbívoro,6.2945,-75.0237
+11,Gato persa,4.5,26,Blanco,Croquetas de salmón,Carnívoro,6.2950,-75.0212
+12,Perro bulldog,22,40,Blanco con manchas,Croquetas de cordero,Omnívoro,6.2922,-75.0188
+13,Perico australiano,0.4,15,Amarillo con verde,Semillas,Herbívoro,6.2957,-75.0205
+14,Perro golden retriever,30,60,Dorado,Croquetas de pollo,Omnívoro,6.2942,-75.0229
+15,Gato criollo,3.6,23,Negro,Pescado,Carnívoro,6.2919,-75.0215
+16,Gallina,2.1,35,Roja y blanca,Maíz,Omnívoro,6.2931,-75.0191
+17,Pato,1.8,30,Blanco con gris,Granos y vegetales,Omnívoro,6.2961,-75.0222
+18,Perro schnauzer,8.2,35,Gris,Croquetas de res,Omnívoro,6.2929,-75.0235
+19,Gato bengalí,4.8,27,Marrón con manchas,Pescado,Carnívoro,6.2948,-75.0217
+20,Conejo enano,1.2,18,Blanco con gris,Alfalfa,Herbívoro,6.2956,-75.0200
